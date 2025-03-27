@@ -1,0 +1,55 @@
+{
+                                                                                                      "categories": [
+                                                                                                        {
+                                                                                                          "idCategory": "1",
+                                                                                                          "strCategory": "Hamburger",
+                                                                                                          "strCategoryDescription": "A ground beef patty, typically served on a bun with various toppings like lettuce, tomato, onion, and cheese."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "2",
+                                                                                                          "strCategory": "Hot Dog",
+                                                                                                          "strCategoryDescription": "A cooked sausage, traditionally served in a sliced bun and often topped with mustard, ketchup, relish, or other condiments."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "3",
+                                                                                                          "strCategory": "Pizza",
+                                                                                                          "strCategoryDescription": "A flatbread typically topped with tomato sauce, cheese, and various other ingredients like vegetables or meat."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "4",
+                                                                                                          "strCategory": "Fried Chicken",
+                                                                                                          "strCategoryDescription": "Pieces of chicken coated in a seasoned batter and deep-fried until crispy."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "5",
+                                                                                                          "strCategory": "Macaroni and Cheese",
+                                                                                                          "strCategoryDescription": "Elbow macaroni mixed with a cheese sauce, often baked until golden brown."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "6",
+                                                                                                          "strCategory": "Grilled Cheese Sandwich",
+                                                                                                          "strCategoryDescription": "A sandwich made with cheese, often cheddar or American, grilled between two slices of buttered bread."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "7",
+                                                                                                          "strCategory": "Pancakes",
+                                                                                                          "strCategoryDescription": "Flat, round cakes made from a batter and cooked on a griddle, often served with butter and syrup."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "8",
+                                                                                                          "strCategory": "Cheeseburger",
+                                                                                                          "strCategoryDescription": "A hamburger topped with cheese, typically cheddar or American."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "9",
+                                                                                                          "strCategory": "French Fries",
+                                                                                                          "strCategoryDescription": "Thinly cut potatoes deep-fried until golden brown and crispy."
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "idCategory": "10",
+                                                                                                          "strCategory": "Meatloaf",
+                                                                                                          "strCategoryDescription": "A dish of ground meat, typically beef, mixed with breadcrumbs, eggs, and seasonings, shaped into a loaf and baked."
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                    ```
