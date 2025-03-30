@@ -43,9 +43,9 @@ fun RecipeDetailsScreen(recipe: Category, onBackPress: () -> Unit) {
         Spacer(modifier = Modifier.padding(15.dp))
         Text(text = recipe.strCategoryDescription, fontSize = 20.sp)
         Spacer(modifier = Modifier.padding(15.dp))
-        Text(text = "Ingredients:", fontSize = 20.sp)
+        Text(text = "Recipe:", fontSize = 20.sp)
         Spacer(modifier = Modifier.padding(15.dp))
-        Text(text = recipe.strIngredients, fontSize = 20.sp)
+        Text(text = recipe.strRecipe, fontSize = 20.sp)
         Spacer(modifier = Modifier.padding(15.dp))
         Button(onClick = onBackPress) {
             Text("Back")

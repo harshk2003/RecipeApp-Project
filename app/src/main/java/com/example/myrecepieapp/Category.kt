@@ -5,7 +5,7 @@ data class Category(
     val strCategory: String,
     val strCategoryThumb: String,
     val strCategoryDescription: String,
-    val strIngredients: String
+    val strRecipe: String
 )
 
 data class CategoriesResponse(val categories: List<Category>)

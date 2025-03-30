@@ -27,7 +27,7 @@ class MainViewModel : ViewModel() {
                             MessageContent(
                                 parts = listOf(
                                     MessagePart(
-                                        text = "Provide a JSON list of **only 4** dishes in ${cuisine.value} cuisine. Format:\n" +
+                                        text = "Provide a JSON list of **only 4** dishes in ${cuisine.value} cuisinee. Format:\n" +
                                                 "{\n" +
                                                 "  \"categories\": [\n" +
                                                 "    {\n" +
@@ -35,7 +35,7 @@ class MainViewModel : ViewModel() {
                                                 "      \"strCategory\": \"Dish Name\",\n" +
                                                 "      \"strCategoryThumb\": \"Dish Image\",\n" +
                                                 "      \"strCategoryDescription\": \"Dish description\",\n" +
-                                                "      \"strIngredients\": \"Dish Ingredients.\"\n" +
+                                                "      \"strRecipe\": \"Dish Recipe.\"\n" +
                                                 "    }\n" +
                                                 "  ]\n" +
                                                 "}"
